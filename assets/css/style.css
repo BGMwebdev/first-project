@@ -118,3 +118,16 @@ li {
      color: #fff5db;
 }
 
+/* footer */
+
+footer {
+    width: 100%;
+    height: 30px;
+    background-color: #63156F;
+    color: #fff5db;
+    text-align: center;
+}
+
+footer a {
+
+}
