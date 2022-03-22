@@ -1,149 +1,67 @@
 @import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
 
+/* variables */
+:root {
+    --primary: #63156f;
+    --secondary: #fff5db;
+}
+
+/* resets */
 * {
     padding: 0;
     margin: 0;
     border: none;
     box-sizing: border-box;
+    list-style-type: none;
+    text-decoration: none;
 }
 
+/* base styles */
 body {
+    background-color: var(--secondary);
+    overflow-x: hidden;
     font-family: 'EB Garamond', serif;
     font-weight: 300;
-    color: #000;
-    background-color: #fff5db;
+    font-size: medium;
+    color: var(--primary);
 }
-
-/* header: h1 and navigation links*/
-
+/* mobile styles */
 header {
-    width: 100%;
-    background-color: #63156F;
+    background-color: var(--primary);
 }
-
-header a {
-    text-decoration: none;
+.grid {
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    gap: 10px;
 }
-
-h1 {
-    font-family: 'EB Garamond', serif;
-    text-transform: uppercase;
-    letter-spacing: 3px;
+h1, header a {
+    color: var(--secondary);
+}
+.grid > a {
+    margin-top: 25px;
+    grid-column: span 8;
     text-align: center;
-    padding-top: 20px;
-    padding-bottom: 0;
-    color: #FFF5DA;
 }
-
-nav {
-    display: flex;
-    justify-content: center;
-    background-color: #63156F;
-    line-height: 16px;
+.grid > nav {
+    margin: 15px;
+    grid-column: span 8;
+    text-align: center;
 }
-
 #menu {
-    font-size: 70%;
-    letter-spacing: 2px;
-    padding: 0;
-    margin: 0;
-    list-style-type: none;
+    margin-bottom: 10px;
+    line-height: 10px;
 }
-
-#menu li {
-    list-style-type: none;
-    margin-right: 10px;
-    background-color: #63156F;
-}
-
-#menu a {
-    text-decoration: none;
-    display: block;
-    color: #fff5db;
-    text-align: center;
-    padding-bottom: 15px;
-    padding-top: 5px;
-}
-
-li {
-    float: left;
-}
-
-/* index main sections */
-/* hero image section*/
-
-#hero-wrapper {
-    position: relative;
-    border-bottom: 5px solid #63156F;
-}
-
-#hero-image {
-    background-image: linear-gradient(270deg, rgba(157, 66, 127, 0.109), rgba(250, 213, 213, 0.782)), url("../images/hannah-busing-Zyx1bK9mqmA-unsplash.jpg");
-    width: 100%;
-    height: 400px;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-color: #ab2f90;
-    color: white;
-    overflow: hidden;
-}
-
-#hero-text {
-    position: absolute;
-    top: 30%;
-    left: 60px;
-    color: #fff5db;
-    text-align: center;
-}
-
-/* index content section*/
-
-#circle-content-wrapper {
-    position: relative;
-    display: flex;
-    justify-content: center;
-    height: 350px;
-}
-
-#circle-content {
-    position: absolute;
-    width: auto;
-    background-color: #63156F;
-    padding: 10px;
-    margin: 25px;
-}
-
-#circle-content h2, p {
-     text-align: center;
-     color: #fff5db;
-}
-
-/* footer */
-
-footer {
-    width: 100%;
-    height: 97.6px;
-    background-color: #63156F;
-    display: flex;
-    justify-content: center;
-}
-
-footer p {
-    display: block;
-}
-
-.social-networks {
-    text-align: center;
-
-}
-
-.social-networks  li {
+#menu > li {
     display: inline;
-   }
-
-.social-networks i {
-    font-size: 100%;
-    margin-top: 50%;
-    padding: 15px;
-    color: #fff5db;
+    padding: 10px;
 }
+
+
+/* small tablet styles */
+@media screen and (min-width: 620px) {}
+
+/* large tablet and laptop styles */
+@media screen and (min-width: 960px) {}
+
+/* desktop styles */
+@media screen and (min-width: 1200px) {}
