@@ -111,7 +111,28 @@ hr {
 }
 
 /* circle-content section */
+#circle-content-what {
+    grid-column: 2/8;
+    margin-top: 35px; 
+    padding: 10px;
+    border-radius: 3%;
+    box-shadow: 5px 5px #f8d272;
+    text-align: center;
+    background-color: var(--primary);
+    color: var(--secondary);
+}
 
+#circle-content-why {
+    grid-column: 2/8;
+    grid-row: 2;
+    margin-top: 35px; 
+    padding: 10px;
+    border-radius: 3%;
+    box-shadow: 5px 5px #f8d272;
+    text-align: center;
+    background-color: var(--primary);
+    color: var(--secondary);
+}
 
 /* small tablet styles */
 @media screen and (min-width: 620px) {}
