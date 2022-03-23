@@ -22,8 +22,14 @@ body {
     overflow-x: hidden;
     font-family: 'EB Garamond', serif;
     font-weight: 300;
-    font-size: 1em;
+    font-size: 15px;
     color: var(--secondary);
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    gap: 10px;
 }
 
 /* mobile styles */
@@ -31,12 +37,6 @@ body {
 header {
     background-color: var(--primary);
     width: 100%;
-}
-
-.grid {
-    display: grid;
-    grid-template-columns: repeat(8, 1fr);
-    gap: 10px;
 }
 
 h1,
@@ -48,11 +48,6 @@ header a {
     margin-top: 25px;
     grid-column: span 8;
     text-align: center;
-}
-
-hr {
-    color: var(--secondary);
-
 }
 
 .grid>nav {
@@ -167,12 +162,19 @@ footer p {
 }
 
 /* small tablet styles */
-/* Footer */
+
 @media screen and (min-width: 768px) {
+
+    body {
+        font-size: 15px;
+    }
+
+    /* Footer */
     .social-networks {
         grid-column: 5/7;
         text-align: center;
     }
+
     footer p {
         grid-column: 3/5;
         grid-row: 1;
@@ -184,13 +186,42 @@ footer p {
 /* large tablet and laptop styles */
 @media screen and (min-width: 960px) {
 
+    body {
+        font-size: 16px;
+    }
+
+    /* header */
+    header {
+        height: 100px;
+    }
+
+    .grid>a {
+        margin: 15px;
+        grid-column: 1/4;
+        text-align: center;
+    }
+
+    h1 {
+        font-size: 40px;
+    }
+
+    .grid>nav {
+        margin: 15px;
+        padding-top: 25px;
+        grid-column: 6/9;
+        text-align: center;
+    }
+
+    #menu li {
+        font-size: 18px;
+    }
 }
 
 /* desktop styles */
 @media screen and (min-width: 1200px) {
 
-    /* example */
     body {
-        font-size: 20px;
+        font-size: 17px;
     }
+
 }
