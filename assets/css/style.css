@@ -215,6 +215,16 @@ footer p {
     #menu li {
         font-size: 18px;
     }
+
+    /* hero image */
+    #hero-wrapper {
+        height: 500px;
+        width: 100%;
+    }
+
+    #hero-image {
+        height: 500px;
+    }
 }
 
 /* desktop styles */
@@ -224,4 +234,22 @@ footer p {
         font-size: 17px;
     }
 
+    /* header and navigation */
+    h1 {
+        font-size: 45px;
+    }
+
+    #menu li {
+        font-size: 20px;
+    }
+
+    /* hero image */
+    #hero-wrapper {
+        height: 600px;
+        width: 100%;
+    }
+
+    #hero-image {
+        height: 600px;
+    }
 }
