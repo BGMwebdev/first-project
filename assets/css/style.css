@@ -18,12 +18,12 @@
 
 /* base styles */
 body {
-    background-color: var(--secondary);
+    background-color: var(--primary);
     overflow-x: hidden;
     font-family: 'EB Garamond', serif;
     font-weight: 300;
     font-size: 1em;
-    color: var(--primary);
+    color: var(--secondary);
 }
 
 /* mobile styles */
@@ -116,10 +116,14 @@ hr {
     margin-top: 35px; 
     padding: 10px;
     border-radius: 10px;
-    box-shadow: 5px 5px #f8d272;
+    box-shadow: 5px 5px #2c0a31;
     text-align: center;
-    background-color: var(--primary);
-    color: var(--secondary);
+    background-color: var(--secondary);
+    color: var(--primary);
+}
+
+#circle-content-what p {
+    padding: 5px;
 }
 
 #circle-content-why {
@@ -128,10 +132,14 @@ hr {
     margin: 35px 0; 
     padding: 10px;
     border-radius: 10px;
-    box-shadow: 5px 5px #f8d272;
+    box-shadow: 5px 5px #2c0a31;
     text-align: center;
-    background-color: var(--primary);
-    color: var(--secondary);
+    background-color: var(--secondary);
+    color: var(--primary);
+}
+
+#circle-content-why p {
+    padding: 5px;
 }
 
 /* small tablet styles */
