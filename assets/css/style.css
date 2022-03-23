@@ -225,6 +225,11 @@ footer p {
     #hero-image {
         height: 500px;
     }
+
+    /* footer */
+    .social-networks a {
+        padding-left: 25px;
+    }
 }
 
 /* desktop styles */
