@@ -16,7 +16,11 @@
 - Gallery
 - Contact form
 
+### Wireframes
+
 ### Features for the future
+
+### Languages used
 
 ### Testing
 
@@ -95,9 +99,30 @@ This website will be targeted towards all women young and old from all walks of 
     - This feature will allow for users to get in touch with my client. Either to ask a question or to sign up for participation. 
     - The user will be asked to fill in their name and email adress. There is also space for questions or comments. 
 
+### Wireframes
+- Wireframe of the landing page:
+![Wireframe landing page](assets/wireframes/wireframe1%20landing%20page.png)
+- Wireframe of the about page:
+![Wireframe about page](assets/wireframes/wireframe2%20about%20page.png)
+- Wireframe of the events page:
+![Wireframe events page](assets/wireframes/wireframe3%20events%20page.png)
+- Wireframe of the contact page:
+![Wireframe contact page](assets/wireframes/wireframe4%20contact%20page.png)
+- Wireframe fo the smartphone landing page:
+![Wireframe landing page smartphone](assets/wireframes/wireframe1%20mobile.png)
+- Wireframe fo the smartphone about page:
+![Wireframe about page smartphone](assets/wireframes/wireframe2%20mobile.png)
+- Wireframe fo the smartphone events page:
+![Wireframe events page smartphone](assets/wireframes/wireframe3%20mobile.png)
+
 ### Features for the future
 - A testimonial section, or user story section, where users can read about or even view (video content) the experience of other users. This will add to reliablility of information.
 - A blog section where the user can read and relate to stories. This way a broader public can be reached. 
+
+### Languages used
+- This website makes use of two languages:
+    - HTML for the frame
+    - CSS for the styling of the page
 
 ### Testing
 - Responsive design
