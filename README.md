@@ -95,4 +95,47 @@ This website will be targeted towards all women young and old from all walks of 
     - This feature will allow for users to get in touch with my client. Either to ask a question or to sign up for participation. 
     - The user will be asked to fill in their name and email adress. There is also space for questions or comments. 
 
-    
+### Features for the future
+- A testimonial section, or user story section, where users can read about or even view (video content) the experience of other users. This will add to reliablility of information.
+- A blog section where the user can read and relate to stories. This way a broader public can be reached. 
+
+### Testing
+- Responsive design
+    - This website is tested for responsive design through the use of different sizes settings in chrome dev-tools.
+    - Responsivity is also tested on http://ami.responsivedesign.is/ (see image at the top) and on https://www.responsinator.com/ where also different viewport sizes are presented.
+    ![image of responsivity on responsinator](assets/images/responsivity-responsinator.png)
+
+- Validation testing
+    - Validation testing has been done daily, to make sure the code written was without error. This was done through https://jigsaw.w3.org/css-validator/ for css and through https://validator.w3.org/ for validating the html.
+![image of css validation](assets/images/css-validation.png)
+![image of html validation](assets/images/html-validation.png)
+
+    - The website is also validated for it's color contrast through https://webaim.org/resources/contrastchecker/ and through https://coolors.co/contrast-checker/fff5da-63156f
+![image of color validation yellow purple](assets/images/color-validation-yellow-purple.png)
+![image of color validation pink purple](assets/images/color-validation-pink-purple.png)
+
+    - lighthouse
+    Lighthouse is used in chrome dev tools to check performance and accessibility.
+    (add scores and images!!)
+
+- Bugs & errors
+    - Image on about page wasn't rendering. I was advices on slack to change file path to relative path. This fixed the problem.
+
+
+
+
+
+
+
+
+
+
+### Deployment
+
+- Steps
+- Live link
+
+### Credits
+
+- Content
+- Media
