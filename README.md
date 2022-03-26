@@ -7,8 +7,7 @@
 ### Features 
 
 - Navigation bar
-- Landing page image
-- Landing page text
+- Landing page 
 - What and why
 - Footer
 - About me
@@ -41,5 +40,49 @@
 
 ### Introduction
 
-Women should connect with other women, share their experience, and celebrate being women together! There is a lot of value in connection. To see others and be fully seen. A sense of acceptance, coming home, feeling safe, being able to truly relax and let go and even celebrate one another. 
-This website provides awareness around the value of support and connection among women and make it accesible for them to reach out and even participate.  
+Women should connect with other women, share their experience, and celebrate being women together! There is a lot of value in connection. To see others and be fully seen. A sense of acceptance, coming home, feeling safe, being able to truly relax and let go and even celebrate who you are. 
+This website will be targeted towards all women, young, old and all backgrounds, to provides awareness around the value of support and connection among women and make it accesible for them to reach out and even participate.  
+
+### Features
+- Navigation bar
+    - The fully responsive navbar is a feature that is presented on all pages. It contains the websites logo, and a navigation menu that is easily recognised.
+    - The navigation bar is present on all pages to make navigating between pages easy, and there is no need for use of the back button in the browser window. 
+    - The navigation menu contains a hover effect to make the user experience more pleasent. 
+    - The navigation bar also contains an 'active' function, which is shown by discoloration of the active page name in the menu. The user can see on which page they currently are.
+
+- Landing page
+    - The landing page has a background image to immediately draw in attention, and trigger curiosity. The image creates a sense of togetherness. With the gradient set as it is, it also creates something dreamy, something to long for. 
+    - In the center there is an overlay of text with core principles of what a women's circle is about. The words are very relatable and speak to the needs of women. 
+
+- What and Why
+    - Underneath the landing page image, the user is directly introduces to information around what a women's circle is and why they should join, or what the value could be for them. 
+    - The placing makes it easy for the user to immediatly get their curiosity met with en explaination.
+
+- Footer
+    - The footer contains a copyright.
+    - The footer also contains social media links to my client's personal pages. This will allow the user to get instant acces to who she is and connect through social media. 
+    - The links will create easy acces to social media, and will open in a seprate window.
+    - This feature will be present on all pages. 
+
+- About me
+    - In this feature the user can get to know the person behind the webpage, maybe even relate to the personal story. 
+    - There is a picture presented for the user to connect to a real person, to make it more personal.
+
+- Mission
+    - This feature will make the user part of something bigger. It is a dream the user is invited to. 
+    - The mission statement will be another call to action for women, and hopefully will get women motivated to take part. 
+
+- Events
+    - There are two different events the user can participate in, making it accesible to different needs and/or agenda's. 
+    - The two event cards show all the information needed, which makes it very easy and clear.
+    - The added images are there to set the tone, create a mood and invite. 
+
+- Gallery
+    - This feature will allow the user to get a better impression of what the women's circle is. 
+    - The images have a enlarge effect on hover, which makes the experience very easy and pleasant.  
+
+- Contact form
+    - This feature will allow for users to get in touch with my client. Either to ask a question or to sign up for participation. 
+    - The user will be asked to fill in their name and email adress. There is also space for questions or comments. 
+
+    
