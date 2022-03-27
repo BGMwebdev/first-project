@@ -2,7 +2,7 @@
 
 ## content
 
-### Introduction 
+### [Introduction](#introduction) 
 
 ### Features 
 
@@ -22,7 +22,7 @@
 
 ### Languages used
 
-### Testing
+### [Testing](#testing)
 
 - Responsive design
 - Validation testing
@@ -42,7 +42,7 @@
 
 # Women's Circle
 
-### Introduction {#introduction} 
+### Introduction
 
 Women should connect with other women, share their experience, and celebrate being women together! There is a lot of value in connection. To see others and be fully seen. A sense of acceptance, coming home, feeling safe, being able to truly relax and let go and even celebrate who you are. 
 This website will be targeted towards all women young and old from all walks of life, to provides awareness around the value of support and connection among women and make it accesible for them to reach out and even participate.  
@@ -131,8 +131,16 @@ This website will be targeted towards all women young and old from all walks of 
     ![image of responsivity on responsinator](assets/images/responsivity-responsinator.png)
 
 - Validation testing
-    - Validation testing has been done daily, to make sure the code written was without error. This was done through https://jigsaw.w3.org/css-validator/ for css and through https://validator.w3.org/ for validating the html.
+    - W3C Jigsaw CSS Test:[W3C HTML Validator](https://jigsaw.w3.org/css-validator/#validate_by_input).
+    - Uploaded stylesheet daily.
+    - Made all necessary changes.
+    - Ran test again to verify all CSS passed.
+    <!-- I'm sorry the image has Dutch text in it, it says; "Congratulations! no mistakes found." -->
 ![image of css validation](assets/images/css-validation.png)
+    - W3C HTML Test:[W3C HTML Validator](https://validator.w3.org/nu/#textarea).
+    - Ran every html file daily (if there were changes).
+    - Made all necessary changes.
+    - Ran test again to verify all HTML passed.
 ![image of html validation](assets/images/html-validation.png)
 
     - The website is also validated for it's color contrast through https://webaim.org/resources/contrastchecker/ and through https://coolors.co/contrast-checker/fff5da-63156f
@@ -146,19 +154,19 @@ This website will be targeted towards all women young and old from all walks of 
 - Bugs & errors
     - Image on about page wasn't rendering. I was advices on slack to change file path to relative path. This fixed the problem.
 
-
-
-
-
-
-
-
-
-
 ### Deployment
 
-- Steps
-- Live link
+The steps taken to deploy the website :
+
+1. In the GitHub repository, navigate to the Settings tab
+2. Scroll down to Github pages
+2. From the source section drop-down menu, select the main branch
+3. Once the main branch has been selected, click "Save"
+4. GitHub will display a message confirming that the site has been deployed successfully
+5. GitHub will provide a link to the deployed site
+6. Click on the link to view the site has deployed in a new tab
+
+The live link the deployed project can be found here: [Women's-circle](https://bgmwebdev.github.io/first-project/)
 
 ### Credits
 
