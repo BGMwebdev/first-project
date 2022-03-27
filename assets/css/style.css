@@ -401,14 +401,52 @@ footer p {
     margin-bottom: 15px;
     padding: 10px;
     text-align: center;
-    align-items: center;
     border-radius: 10px;
     box-shadow: 5px 5px #2c0a31;
 }
 
 #contact-container h3 {
+    font-size: 18px;
     padding: 10px;
 }
+
+#contact-form {
+    width: 90%;
+    text-align: center;
+    margin: auto;
+}
+
+::placeholder {
+    color: var(--primary);
+    font-family: 'EB Garamond', serif;
+  }
+
+.form-content {
+    padding: 5px;
+}
+
+.form-content input, .form-content textarea {
+    border: 2px solid #FDCEEF;
+    border-style: inset;
+}
+
+.button {
+    margin: 10px 0;
+}
+
+.button input {
+    background-color: #FDCEEF;
+    color: var(--primary);
+    border: 2px solid #c738af;
+    border-style: outset;
+    border-radius: 5px;
+    padding: 4px 12px;
+    text-align: center;  
+}
+
+.button input:hover {
+    background-color: #ff8fdd;
+  }
 
 
 
