@@ -2,7 +2,7 @@
 
 ## content
 
-### [Introduction](#introduction) 
+### Introduction
 
 ### Features 
 
@@ -22,7 +22,7 @@
 
 ### Languages used
 
-### [Testing](#testing)
+### Testing Section
 
 - Responsive design
 - Validation testing
@@ -114,6 +114,8 @@ This website will be targeted towards all women young and old from all walks of 
 ![Wireframe about page smartphone](assets/wireframes/wireframe2%20mobile.png)
 - Wireframe fo the smartphone events page:
 ![Wireframe events page smartphone](assets/wireframes/wireframe3%20mobile.png)
+- Wireframe fo the smartphone contact page:
+![Wireframe events page smartphone](assets/wireframes/wireframe4%20mobile.png)
 
 ### Features for the future
 - A testimonial section, or user story section, where users can read about or even view (video content) the experience of other users. This will add to reliablility of information.

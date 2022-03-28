@@ -492,7 +492,7 @@ footer p {
         grid-column: 3/5;
         grid-row: 1;
         font-size: 13px;
-        text-align: right;
+        text-align: center;
     }
 
     /* about me section */
@@ -567,7 +567,7 @@ footer p {
     }
 
     /* form section */
-  
+
 }
 
 /* large tablet and laptop styles */
