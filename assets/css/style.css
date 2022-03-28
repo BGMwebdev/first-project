@@ -284,6 +284,7 @@ footer p {
 
 #event-top>div {
     padding: 5px;
+    margin: 0 auto;
 }
 
 #event-bottom {
@@ -327,6 +328,7 @@ footer p {
 
 #event-bottom>div {
     padding: 5px;
+    margin: 0 auto;
 }
 
 /* gallery section */
