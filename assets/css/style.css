@@ -88,6 +88,7 @@ header a {
     position: relative;
 }
 
+/* css gradient overlay is from Webdevetc */
 #hero-image {
     background-image: linear-gradient(270deg, rgba(157, 66, 127, 0.109), rgba(250, 213, 213, 0.782)), url('../images/hero-img.jpg');
     width: 100%;
@@ -387,6 +388,7 @@ footer p {
     border-radius: 10px;
 }
 
+/* css from video of WebZone */
 .image-box:hover {
     transform: scale(4);
     z-index: 2;
