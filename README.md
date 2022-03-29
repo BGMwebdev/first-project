@@ -23,6 +23,7 @@ This ficticious website, build for educational purpose, will be targeted towards
     - Events
     - Gallery
     - Contact form
+    - message sent
 
 - [Wireframes](#wireframes)
 
@@ -108,6 +109,12 @@ This ficticious website, build for educational purpose, will be targeted towards
     - The user will be asked to fill in their name and email adress. There is also space for questions or comments. 
 
 ![Image of the form](assets/readme/contact-form.png)
+
+- Message sent
+    - I've added a confirmation page to let the user know, their message has been sent and recieved. Because of it being fictive, the message won't be send for real. 
+    - from there it's easy to use navigation again, to go back to any page of interest.
+
+![Image of message sent page](assets/readme/message-sent.png)
 
 ---
 
