@@ -157,15 +157,43 @@ The color explanation was found on [Colors Explained](https://www.colorsexplaine
     - Made all necessary changes.
     - Ran test again to verify all CSS passed.
 
-    <!-- I'm sorry the image has Dutch text in it, it says; "Congratulations! no mistakes found." -->
-![image of css validation](assets/images/css-validation.png)
+CSS validation of Index page
+
+![image of css validation index](assets/images/css-val-index.png)
+
+CSS validation of about page
+
+![image of css validation about](assets/images/css-val-about.png)
+
+CSS validation of events page
+
+![image of css validation events](assets/images/css-val-events.png)
+
+CSS validation of contact page
+
+![image of css validation contact](assets/images/css-val-contact.png)
 
     - W3C HTML Test:[W3C HTML Validator](https://validator.w3.org/nu/#textarea).
     - Ran every html file daily (if there were changes).
     - Made all necessary changes.
     - Ran test again to verify all HTML passed.
 
-![image of html validation](assets/images/html-validation.png)
+HTML validation of index page
+
+![image of html validation index](assets/images/html-val-index.png)
+
+HTML validation of about page
+
+![image of html validation about](assets/images/html-val-about.png)
+
+HTML validation of events page
+
+![image of html validation events](assets/images/html-val-events.png)
+
+HTML validation of contact page
+
+![image of html validation contact](assets/images/html-val-contact.png)
+
 
     - The website is also validated for it's color contrast through https://webaim.org/resources/contrastchecker/ and through https://coolors.co/contrast-checker/fff5da-63156f
 
@@ -177,11 +205,19 @@ The color explanation was found on [Colors Explained](https://www.colorsexplaine
     Lighthouse is used in chrome dev tools to check performance and accessibility.
     (add scores and images!!)
 
+Lighthouse test index page desktop
+
 ![Lighthouse index-page desktop](assets/images/lh-test-pg1.png)
+
+Lighthouse test about page desktop
 
 ![Lighthouse about-page desktop](assets/images/lh-test-pg2.png)
 
+Lighthouse test events page desktop
+
 ![Lighthouse events-page desktop](assets/images/lh-test-pg3.png)
+
+Lighthouse test contact page desktop
 
 ![Lighthouse contact-page desktop](assets/images/lh-test-pg4.png)
 
