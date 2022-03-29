@@ -289,6 +289,7 @@ This fictive website will be targeted towards all women young and old from all w
     - As inspiration for and to learn about responsive footer, I looked at the video of [Future Coders](https://www.youtube.com/watch?v=2-5LpaN2LF8) 
     - To get inspired about mobile first responsive build I watched the video series of [Netninja](https://www.youtube.com/watch?v=PM3XW_1RAIs&list=PL4cUxeGkcC9hH1tAjyUPZPjbj-7s200a4)
     - To learn about and choose between flexbox or grid I watched the video of [Kevin Powell](https://www.youtube.com/watch?v=3elGSZSWTbM)
+    - To learn about centering elements I used [FreeCodeCamp](https://www.freecodecamp.org/news/how-to-center-anything-with-css-align-a-div-text-and-more/)
     - To understand how to enlarge an image on hover, I watched this video of [WebZone](https://www.youtube.com/watch?v=Zz8A4NqoLrE) and used the css for hover.
     - To learn about responsive form I watched the video from [Dev_A.T_Viet_Nam](https://www.youtube.com/watch?v=ebsIkJHGuIA)
     - How to style placeholder text I found and used from [w3schools](https://www.w3schools.com/cssref/sel_placeholder.asp)
