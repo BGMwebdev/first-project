@@ -270,7 +270,7 @@ This ficticious website, build for educational purpose, will be targeted towards
 - Bugs & errors
     - Image on about page wasn't rendering. I was advices on slack to change file path to relative path. This fixed the problem.
     - My events page was to slow, due to sizes of images. I put them through [TinyPNG](https://tinypng.com/) to compress them. After that I made the physical size smaller with Paint 3D. This solved the issue. 
-    - I couldn't get my footer at the bottom in the contact page. I tried display absolute / bottom 0, but this created an issue on mobile. The footer was seen on the keyboard. Eventually I used margin on my contact form to keep the footer down at the bottom. 
+    - I couldn't get my footer at the bottom in the contact page. I tried display absolute / bottom 0, but this created an issue on mobile. The footer was seen on the keyboard. Eventually I used margin on my contact form to keep the footer down at the bottom. It works on most viewports, but somehow not on iPad portrait, then the footer comes up a bit. 
     - When hovering the images in the gallery, there seems to be some space between the image and the border. It doesn't bother me, but it's not supposed to be there. I haven't figured out what the bug is. 
 
 ---
