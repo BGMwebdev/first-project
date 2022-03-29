@@ -107,6 +107,7 @@ This ficticious website, build for educational purpose, will be targeted towards
 - Contact form
     - This feature will allow for users to get in touch with my client. Either to ask a question or to sign up for participation. 
     - The user will be asked to fill in their name and email adress. There is also space for questions or comments. 
+    - I left out the attribute method, so that the action would show the message sent page, when only using html and css.
 
 ![Image of the form](assets/readme/contact-form.png)
 
