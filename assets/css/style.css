@@ -400,6 +400,11 @@ footer p {
     height: 600px;
 }
 
+#wrapper {
+    height: 100%;
+    position: relative;
+}
+
 #contact-container {
     background-color: var(--secondary);
     color: var(--primary);
@@ -747,7 +752,7 @@ footer p {
 
     /* contact page */
     #contact-container {
-        margin-bottom: 700px;
+        margin-bottom: 500px;
     }
 }
 
