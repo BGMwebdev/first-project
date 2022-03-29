@@ -3,7 +3,7 @@
 ## Introduction
 
 Women should connect with other women, share their experience, and celebrate being women together! There is a lot of value in connection. To see others and be fully seen. A sense of acceptance, coming home, feeling safe, being able to truly relax and let go and even celebrate who you are. 
-This fictive website will be targeted towards all women young and old from all walks of life, to provides awareness around the value of support and connection among women and make it accesible for them to reach out and even participate. This website is inspired by and losely based on my loving partner's life and interests.
+This ficticious website, build for educational purpose, will be targeted towards all women young and old from all walks of life, to provide awareness around the value of support and connection among women and make it accessible for them to reach out and even participate. This website is inspired by and losely based on my loving partner's life and interests.
 
 ![Image of responsive website Women's Circle](assets/readme/responsive.png)
 
@@ -44,6 +44,7 @@ This fictive website will be targeted towards all women young and old from all w
 - [Credits](#credits)
     - Content
     - Media
+    - books
 
 -----
 
