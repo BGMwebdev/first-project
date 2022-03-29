@@ -201,9 +201,11 @@ HTML validation of contact page
 
 ![image of color validation pink purple](assets/images/color-validation-pink-purple.png)
 
+---
+
     - lighthouse
     Lighthouse is used in chrome dev tools to check performance and accessibility.
-    (add scores and images!!)
+   
 
 Lighthouse test index page desktop
 
@@ -221,8 +223,30 @@ Lighthouse test contact page desktop
 
 ![Lighthouse contact-page desktop](assets/images/lh-test-pg4.png)
 
+---
+
+Lighthouse test index page mobile
+
+![Lighthouse index-page mobile](assets/images/lh-test-mb1.png)
+
+Lighthouse test about page mobile
+
+![Lighthouse about-page mobile](assets/images/lh-test-mb2.png)
+
+Lighthouse test events page mobile
+
+![Lighthouse events-page mobile](assets/images/lh-test-mb3.png)
+
+Lighthouse test contact page mobile
+
+![Lighthouse contact-page mobile](assets/images/lh-test-mb4.png)
+
+---
+
 - Bugs & errors
     - Image on about page wasn't rendering. I was advices on slack to change file path to relative path. This fixed the problem.
+    - My events page was to slow, due to sizes of images. I put them through [TinyPNG](https://tinypng.com/) to compress them. After that I made the physical size smaller with Paint 3D. This solved the issue. 
+    - I couldn't get my footer at the bottom in the contact page. I tried display absolute / bottom 0, but this created an issue on mobile. The footer was seen on the keyboard. Eventually I used margin on my contact form to keep the footer down at the bottom. 
 
 ### Deployment
 
