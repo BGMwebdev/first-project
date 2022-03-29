@@ -126,6 +126,7 @@ This fictive website will be targeted towards all women young and old from all w
 
 ### Design choices
 - I picked purple as the primary color of the website. Purple is associaded with wisdom, spirituality, truth, inspiration, imagination and also royalty. Purple is also a color Marleen likes a lot. I picked a contrasting color that would fit well and have a soft warm sense to it. For details I picked a light pink, which is often associated with femininity, self knowledge and creativity. As you will be able to read in the testing section, the contrast has been tested. 
+
 ![Image to support color choice](assets/images/color-chart.png)
 
 The chart was found on [Pinterest](https://nl.pinterest.com/pin/213709944790337176/)
@@ -133,7 +134,6 @@ The chart was found on [Pinterest](https://nl.pinterest.com/pin/2137099447903371
 ![Image to support color choice](assets/images/color-choice.png)
 
 The color explanation was found on [Colors Explained](https://www.colorsexplained.com/color-purple-meaning-of-the-color-purple/)
-
 
 ### Features for the future
 - A testimonial section, or user story section, where users can read about or even view (video content) the experience of other users. This will add to reliablility of information.
@@ -148,6 +148,7 @@ The color explanation was found on [Colors Explained](https://www.colorsexplaine
 - Responsive design
     - This website is tested for responsive design through the use of different size settings in chrome dev-tools.
     - Responsivity is also tested on http://ami.responsivedesign.is/ (see image at the top) and on https://www.responsinator.com/ where also different viewport sizes are presented.
+
     ![image of responsivity on responsinator](assets/images/responsivity-responsinator.png)
 
 - Validation testing
@@ -155,24 +156,33 @@ The color explanation was found on [Colors Explained](https://www.colorsexplaine
     - Uploaded stylesheet daily.
     - Made all necessary changes.
     - Ran test again to verify all CSS passed.
+
     <!-- I'm sorry the image has Dutch text in it, it says; "Congratulations! no mistakes found." -->
 ![image of css validation](assets/images/css-validation.png)
+
     - W3C HTML Test:[W3C HTML Validator](https://validator.w3.org/nu/#textarea).
     - Ran every html file daily (if there were changes).
     - Made all necessary changes.
     - Ran test again to verify all HTML passed.
+
 ![image of html validation](assets/images/html-validation.png)
 
     - The website is also validated for it's color contrast through https://webaim.org/resources/contrastchecker/ and through https://coolors.co/contrast-checker/fff5da-63156f
+
 ![image of color validation yellow purple](assets/images/color-validation-yellow-purple.png)
+
 ![image of color validation pink purple](assets/images/color-validation-pink-purple.png)
 
     - lighthouse
     Lighthouse is used in chrome dev tools to check performance and accessibility.
     (add scores and images!!)
+
 ![Lighthouse index-page desktop](assets/images/lh-test-pg1.png)
+
 ![Lighthouse about-page desktop](assets/images/lh-test-pg2.png)
+
 ![Lighthouse events-page desktop](assets/images/lh-test-pg3.png)
+
 ![Lighthouse contact-page desktop](assets/images/lh-test-pg4.png)
 
 - Bugs & errors

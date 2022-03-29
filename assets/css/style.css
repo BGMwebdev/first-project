@@ -23,7 +23,6 @@ body {
     overflow-x: hidden;
     font-family: 'EB Garamond', serif;
     font-weight: 300;
-    font-size: 15px;
     color: var(--secondary);
 }
 
