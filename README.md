@@ -5,7 +5,7 @@
 Women should connect with other women, share their experience, and celebrate being women together! There is a lot of value in connection. To see others and be fully seen. A sense of acceptance, coming home, feeling safe, being able to truly relax and let go and even celebrate who you are. 
 This fictive website will be targeted towards all women young and old from all walks of life, to provides awareness around the value of support and connection among women and make it accesible for them to reach out and even participate. This website is inspired by and losely based on my loving partner's life and interests.
 
-![Image of responsive website Women's Circle](assets/images/responsive.png)
+![Image of responsive website Women's Circle](assets/readme/responsive.png)
 
 ---
 
@@ -55,19 +55,19 @@ This fictive website will be targeted towards all women young and old from all w
     - The navigation menu contains a hover effect to make the user experience more pleasent. It will show an underline. 
     - The navigation bar also contains an 'active' function, which is shown by discoloration of the active page name in the menu. The user can see on which page they currently are.
 
-![Image of navigation bar](assets/images/navbar.png)
+![Image of navigation bar](assets/readme/navbar.png)
 
 - Landing page
     - The landing page has a background image to immediately draw in attention, and trigger curiosity. The image creates a sense of togetherness. With the gradient set as it is, it also creates something dreamy, something to long for. 
     - In the center there is an overlay of text with core principles of what a women's circle is about. The words are very relatable and speak to the needs of women. 
 
-![Image of landing page](assets/images/hero-image.png)
+![Image of landing page](assets/readme/hero-image.png)
 
 - What and Why
     - Underneath the landing page image, the user is directly introduces to information around what a women's circle is and why they should join, or what the value could be for them. 
     - The placing makes it easy for the user to immediatly get their curiosity met with en explaination.
 
-![Image of the what and why section](assets/images/what-and-why.png)
+![Image of the what and why section](assets/readme/what-and-why.png)
 
 - Footer
     - The footer contains a copyright.
@@ -75,38 +75,38 @@ This fictive website will be targeted towards all women young and old from all w
     - The links will create easy acces to social media, and will open in a seprate window.
     - This feature will be present on all pages. 
 
-![Image of footer](assets/images/footer.png)
+![Image of footer](assets/readme/footer.png)
 
 - About me
     - In this feature the user can get to know the person behind the webpage, maybe even relate to the personal story. 
     - There is a picture presented for the user to connect to a real person, to make it more personal.
 
-![Image of the about me section](assets/images/about-me.png)
+![Image of the about me section](assets/readme/about-me.png)
 
 - Mission
     - This feature will make the user part of something bigger. It is a dream the user is invited to. 
     - The mission statement will be another call to action for women, and hopefully will get women motivated to take part. 
 
-![Image of the mission statement](assets/images/my-mission.png)
+![Image of the mission statement](assets/readme/my-mission.png)
 
 - Events
     - There are two different events the user can participate in, making it accesible to different needs and/or agenda's. 
     - The two event cards show all the information needed, which makes it very easy and clear. Some needed details for actual evenst may be left out due to the fact it's fictitious, like costs, what to bring, maybe even a program, etc.
     - The added images are there to set the tone, create a mood and invite. 
 
-![Image of the events](assets/images/events-section.png)
+![Image of the events](assets/readme/events-section.png)
 
 - Gallery
     - This feature will allow the user to get a better impression of what the women's circle is. 
     - The images have a enlarge effect on hover, which makes the experience very easy and pleasant.  
 
-![Image of gallery hoover effect](assets/images/gallery-hoover.png)
+![Image of gallery hoover effect](assets/readme/gallery-hoover.png)
 
 - Contact form
     - This feature will allow for users to get in touch with my client. Either to ask a question or to sign up for participation. 
     - The user will be asked to fill in their name and email adress. There is also space for questions or comments. 
 
-![Image of the form](assets/images/contact-form.png)
+![Image of the form](assets/readme/contact-form.png)
 
 ---
 
@@ -134,11 +134,11 @@ This fictive website will be targeted towards all women young and old from all w
 - I picked purple as the primary color of the website. Purple is associaded with wisdom, spirituality, truth, inspiration, imagination and also royalty. Purple is also a color Marleen likes a lot. I picked a contrasting color that would fit well and have a soft warm sense to it. For details I picked a light pink, which is often associated with femininity, self knowledge and creativity. As you will be able to read in the testing section, the contrast has been tested. 
 - I wanted to keep the page minimalistic and clear. Less is more. No distractions from unnacessary features.
 
-![Image to support color choice](assets/images/color-chart.png)
+![Image to support color choice](assets/readme/color-chart.png)
 
 - The chart was found on [Pinterest](https://nl.pinterest.com/pin/213709944790337176/)
 
-![Image to support color choice](assets/images/color-choice.png)
+![Image to support color choice](assets/readme/color-choice.png)
 
 - The color explanation was found on [Colors Explained](https://www.colorsexplained.com/color-purple-meaning-of-the-color-purple/)
 
@@ -163,7 +163,7 @@ This fictive website will be targeted towards all women young and old from all w
     - This website is tested for responsive design through the use of different size settings in chrome dev-tools.
     - Responsivity is also tested on http://ami.responsivedesign.is/ (see image at the top of the page in the introduction) and on https://www.responsinator.com/ where also different viewport sizes are presented.
 
-    ![image of responsivity on responsinator](assets/images/responsivity-responsinator.png)
+    ![image of responsivity on responsinator](assets/readme/responsivity-responsinator.png)
 
 - Validation testing
     - W3C Jigsaw CSS Test:[W3C HTML Validator](https://jigsaw.w3.org/css-validator/#validate_by_input).
@@ -174,19 +174,19 @@ This fictive website will be targeted towards all women young and old from all w
 
 - CSS validation of Index page
 
-![image of css validation index](assets/images/css-val-index.png)
+![image of css validation index](assets/readme/css-val-index.png)
 
 - CSS validation of about page
 
-![image of css validation about](assets/images/css-val-about.png)
+![image of css validation about](assets/readme/css-val-about.png)
 
 - CSS validation of events page
 
-![image of css validation events](assets/images/css-val-events.png)
+![image of css validation events](assets/readme/css-val-events.png)
 
 - CSS validation of contact page
 
-![image of css validation contact](assets/images/css-val-contact.png)
+![image of css validation contact](assets/readme/css-val-contact.png)
 
     - W3C HTML Test:[W3C HTML Validator](https://validator.w3.org/nu/#textarea).
     - Ran every html file daily (if there were changes).
@@ -195,26 +195,26 @@ This fictive website will be targeted towards all women young and old from all w
 
 - HTML validation of index page
 
-![image of html validation index](assets/images/html-val-index.png)
+![image of html validation index](assets/readme/html-val-index.png)
 
 - HTML validation of about page
 
-![image of html validation about](assets/images/html-val-about.png)
+![image of html validation about](assets/readme/html-val-about.png)
 
 - HTML validation of events page
 
-![image of html validation events](assets/images/html-val-events.png)
+![image of html validation events](assets/readme/css-val-events.png)
 
 - HTML validation of contact page
 
-![image of html validation contact](assets/images/html-val-contact.png)
+![image of html validation contact](assets/readme/html-val-contact.png)
 
 
     - The website is also validated for it's color contrast through https://webaim.org/resources/contrastchecker/ and through https://coolors.co/contrast-checker/fff5da-63156f
 
-![image of color validation yellow purple](assets/images/color-validation-yellow-purple.png)
+![image of color validation yellow purple](assets/readme/color-validation-yellow-purple.png)
 
-![image of color validation pink purple](assets/images/color-validation-pink-purple.png)
+![image of color validation pink purple](assets/readme/color-validation-pink-purple.png)
 
 ---
 
@@ -224,37 +224,36 @@ This fictive website will be targeted towards all women young and old from all w
 
 - Lighthouse test index page desktop
 
-![Lighthouse index-page desktop](assets/images/lh-test-pg1.png)
+![Lighthouse index-page desktop](assets/readme/lh-test-pg1.png)
 
 - Lighthouse test about page desktop
 
-![Lighthouse about-page desktop](assets/images/lh-test-pg2.png)
+![Lighthouse about-page desktop](assets/readme/lh-test-pg2.png)
 
 - Lighthouse test events page desktop
 
-![Lighthouse events-page desktop](assets/images/lh-test-pg3.png)
+![Lighthouse events-page desktop](assets/readme/lh-test-pg3.png)
 
 - Lighthouse test contact page desktop
 
-![Lighthouse contact-page desktop](assets/images/lh-test-pg4.png)
+![Lighthouse contact-page desktop](assets/readme/lh-test-pg4.png)
 
 ---
 
 - Lighthouse test index page mobile
 
-![Lighthouse index-page mobile](assets/images/lh-test-mb1.png)
+![Lighthouse index-page mobile](assets/readme/lh-test-mb1.png)
 
 - Lighthouse test about page mobile
 
-![Lighthouse about-page mobile](assets/images/lh-test-mb2.png)
-
+![Lighthouse about-page mobile](assets/readme/lh-test-mb2.png)
 - Lighthouse test events page mobile
 
-![Lighthouse events-page mobile](assets/images/lh-test-mb3.png)
+![Lighthouse events-page mobile](assets/readme/lh-test-mb3.png)
 
 - Lighthouse test contact page mobile
 
-![Lighthouse contact-page mobile](assets/images/lh-test-mb4.png)
+![Lighthouse contact-page mobile](assets/readme/lh-test-mb4.png)
 
 ---
 
