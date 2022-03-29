@@ -270,7 +270,7 @@ This ficticious website, build for educational purpose, will be targeted towards
 - Bugs & errors
     - Image on about page wasn't rendering. I was advices on slack to change file path to relative path. This fixed the problem.
     - My events page was to slow, due to sizes of images. I put them through [TinyPNG](https://tinypng.com/) to compress them. After that I made the physical size smaller with Paint 3D. This solved the issue. 
-    - I couldn't get my footer at the bottom in the contact page. I tried display absolute / bottom 0, but this created an issue on mobile. The footer was seen on the keyboard. Eventually I used margin on my contact form to keep the footer down at the bottom. It works on most viewports, but somehow not on iPad portrait, then the footer comes up a bit. 
+    - I couldn't get my footer at the bottom in the contact page. I tried display absolute / bottom 0, but this created an issue on mobile. The footer was seen on the keyboard. I also tried margin on my contact form to keep the footer down at the bottom. It works on most viewports, but somehow not on iPad portrait, then the footer comes up a bit. Eventually I ended up creating a page-container position relative and the footer absolute bottom 0. I used the code from [FreeCodeCamp](https://www.freecodecamp.org/news/how-to-keep-your-footer-where-it-belongs-59c6aa05c59c/)
     - When hovering the images in the gallery, there seems to be some space between the image and the border. It doesn't bother me, but it's not supposed to be there. I haven't figured out what the bug is. 
 
 ---
@@ -304,6 +304,7 @@ This ficticious website, build for educational purpose, will be targeted towards
     - To learn about responsive form I watched the video from [Dev_A.T_Viet_Nam](https://www.youtube.com/watch?v=ebsIkJHGuIA)
     - How to style placeholder text I found and used from [w3schools](https://www.w3schools.com/cssref/sel_placeholder.asp)
     - How to style buttons I also found and used from [w3schools](https://www.w3schools.com/css/css3_buttons.asp)
+    - I struggled a bit with the footer. I used the code from [FreeCodeCamp](https://www.freecodecamp.org/news/how-to-keep-your-footer-where-it-belongs-59c6aa05c59c/) to keep it at the bottom eventually.
 
     In general [3wschools](https://www.w3schools.com/) was a great place to find information, as was [MDN](https://developer.mozilla.org/en-US/), [Google](https://www.google.com/?&bih=754&biw=1536&hl=nl) and [Youtube](https://www.youtube.com/).
 
