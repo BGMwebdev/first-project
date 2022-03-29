@@ -1,55 +1,50 @@
 # Women's Circle
 
-## content
-
-### Introduction
-
-### Features 
-
-- Navigation bar
-- Landing page 
-- What and why
-- Footer
-- About me
-- Mission
-- Events
-- Gallery
-- Contact form
-
-### Wireframes
-
-### Design choices
-
-### Features for the future
-
-### Languages used
-
-### Testing Section
-
-- Responsive design
-- Validation testing
-- Bugs & errors
-
-### Deployment
-
-- Steps
-- Live link
-
-### Credits
-
-- Content
-- Media
-
------
-
-# Women's Circle
-
-### Introduction
+## Introduction
 
 Women should connect with other women, share their experience, and celebrate being women together! There is a lot of value in connection. To see others and be fully seen. A sense of acceptance, coming home, feeling safe, being able to truly relax and let go and even celebrate who you are. 
 This website will be targeted towards all women young and old from all walks of life, to provides awareness around the value of support and connection among women and make it accesible for them to reach out and even participate.  
 
 ![Image of responsive website Women's Circle](assets/images/responsive.png)
+
+## Table of content
+
+- [Introduction](#introduction)
+
+- [Features](#features) 
+    - Navigation bar
+    - Landing page
+    - What and why
+    - Footer
+    - About me
+    - Mission
+    - Events
+    - Gallery
+    - Contact form
+
+- [Wireframes](#wireframes)
+
+- [Design choices](#design-choices)
+
+- [Features for the future](#features-for-the-future)
+
+- [Languages used](#languages-used)
+
+- [Testing](#testing)
+    - Responsive design
+    - Validation testing
+    - Bugs & errors
+
+- [Deployment](#deployment)
+    - Steps
+    - Live link
+
+- [Credits](#credits)
+    - Content
+    - Media
+
+-----
+
 
 ### Features
 - Navigation bar
