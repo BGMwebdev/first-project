@@ -3,7 +3,7 @@
 ## Introduction
 
 Women should connect with other women, share their experience, and celebrate being women together! There is a lot of value in connection. To see others and be fully seen. A sense of acceptance, coming home, feeling safe, being able to truly relax and let go and even celebrate who you are. 
-This website will be targeted towards all women young and old from all walks of life, to provides awareness around the value of support and connection among women and make it accesible for them to reach out and even participate.  
+This fictive website will be targeted towards all women young and old from all walks of life, to provides awareness around the value of support and connection among women and make it accesible for them to reach out and even participate. This website is inspired by and losely based on my loving partner's life and interests.
 
 ![Image of responsive website Women's Circle](assets/images/responsive.png)
 
@@ -125,7 +125,7 @@ This website will be targeted towards all women young and old from all walks of 
 ![Wireframe events page smartphone](assets/wireframes/wireframe4%20mobile.png)
 
 ### Design choices
-- I picked purple as the primary color of the website. Purple is associaded with wisdom, spirituality, truth, inspiration, imagination and also royalty. I picked a contrasting color that would fit well and have a soft warm sense to it. For details I picked a light pink, which is often associated with femininity, self knowledge and creativity. As you will be able to read in the testing section, the contrast has been tested. 
+- I picked purple as the primary color of the website. Purple is associaded with wisdom, spirituality, truth, inspiration, imagination and also royalty. Purple is also a color Marleen likes a lot. I picked a contrasting color that would fit well and have a soft warm sense to it. For details I picked a light pink, which is often associated with femininity, self knowledge and creativity. As you will be able to read in the testing section, the contrast has been tested. 
 ![Image to support color choice](assets/images/color-chart.png)
 
 The chart was found on [Pinterest](https://nl.pinterest.com/pin/213709944790337176/)
@@ -180,7 +180,8 @@ The color explanation was found on [Colors Explained](https://www.colorsexplaine
 
 ### Deployment
 
-The steps taken to deploy the website :
+- I've deployed the website early on, so I could test and update the website constantly.
+- The steps taken to deploy the website are taken from a hackathon project I co-created [Smitten](https://github.com/alissatroiano/8-your-heart-out#deployment).
 
 1. In the GitHub repository, navigate to the Settings tab
 2. Scroll down to Github pages
@@ -190,7 +191,7 @@ The steps taken to deploy the website :
 5. GitHub will provide a link to the deployed site
 6. Click on the link to view the site has deployed in a new tab
 
-The live link the deployed project can be found here: [Women's-circle](https://bgmwebdev.github.io/first-project/)
+- The live link the deployed project can be found here: [Women's-circle](https://bgmwebdev.github.io/first-project/)
 
 ### Credits
 
@@ -220,3 +221,7 @@ The live link the deployed project can be found here: [Women's-circle](https://b
         - The content of what is a women's circle, why should you join and the mission statement is mostly copied and pasted from [Vogue](https://www.vogue.co.uk/article/) and [Kelleemaize](https://www.kelleemaize.com/post/how-to-plan-and-host-a-womens-circle), with some alterations here and there and some input from my partner, Marleen, her own experience to fit this website 
         - The events content is taken from [Circling Institute weekend](https://circlinginstitute.com/weekend-intensives/) and [Circling Institute night](https://circlinginstitute.com/drop-in-circling-night/)
 				 
+- Books:
+    - [The elements of user experience by Jesse James Garrett](https://www.amazon.com/Elements-User-Experience-User-Centered-Design/dp/0735712026#:~:text=Jesse%20James%20Garrett%20is%20one,downloaded%20more%20than%2020%2C000%20times.)
+    - [Ux and UI strategy by Pamala B. Deacon](https://www.amazon.com/UX-UI-STRATEGY-GUIDE-DESIGN/dp/B08QM15ZHT/ref=sr_1_1?crid=IR8STOKDJW4X&keywords=Ux+and+UI+strategy+by+Pamala+B.+Deacon&qid=1648546475&s=books&sprefix=ux+and+ui+strategy+by+pamala+b.+deacon%2Cstripbooks-intl-ship%2C170&sr=1-1)
+    - [HTML & CSS Design and build websites by Jon Duckett](https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189/ref=sr_1_1?crid=DKXE2BG7XGLY&keywords=HTML+%26+CSS+Design+and+build+websites+by+Jon+Duckett&qid=1648546516&s=books&sprefix=html+%26+css+design+and+build+websites+by+jon+duckett%2Cstripbooks-intl-ship%2C187&sr=1-1)
