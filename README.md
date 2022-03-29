@@ -1,4 +1,4 @@
-# Women's Circle
+# Women's Circle [Women's-circle](https://bgmwebdev.github.io/first-project/)
 
 ## Introduction
 
@@ -113,7 +113,7 @@ This ficticious website, build for educational purpose, will be targeted towards
 
 - Message sent
     - I've added a confirmation page to let the user know, their message has been sent and recieved. Because of it being fictive, the message won't be send for real. 
-    - from there it's easy to use navigation again, to go back to any page of interest.
+    - It won't show up, because Im not using any back-end language in this project. I've left it for possible future use.
 
 ![Image of message sent page](assets/readme/message-sent.png)
 
@@ -156,7 +156,8 @@ This ficticious website, build for educational purpose, will be targeted towards
 ### Features for the future
 - A testimonial section, or user story section, where users can read about or even view (video content) the experience of other users. This will add to reliablility of information.
 - A blog section where the user can read and relate to stories. This way a broader public can be reached. 
-- a google maps for directions / location to the venue.
+- Google maps for directions / location to the venue.
+- A thank you page for user reassurance that the message was sent and received. It's already added, but not used. 
 
 ---
 
@@ -270,6 +271,7 @@ This ficticious website, build for educational purpose, will be targeted towards
     - Image on about page wasn't rendering. I was advices on slack to change file path to relative path. This fixed the problem.
     - My events page was to slow, due to sizes of images. I put them through [TinyPNG](https://tinypng.com/) to compress them. After that I made the physical size smaller with Paint 3D. This solved the issue. 
     - I couldn't get my footer at the bottom in the contact page. I tried display absolute / bottom 0, but this created an issue on mobile. The footer was seen on the keyboard. Eventually I used margin on my contact form to keep the footer down at the bottom. 
+    - When hovering the images in the gallery, there seems to be some space between the image and the border. It doesn't bother me, but it's not supposed to be there. I haven't figured out what the bug is. 
 
 ---
 
