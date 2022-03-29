@@ -7,6 +7,8 @@ This fictive website will be targeted towards all women young and old from all w
 
 ![Image of responsive website Women's Circle](assets/images/responsive.png)
 
+---
+
 ## Table of content
 
 - [Introduction](#introduction)
@@ -69,7 +71,7 @@ This fictive website will be targeted towards all women young and old from all w
 
 - Footer
     - The footer contains a copyright.
-    - The footer also contains social media links to my client's personal pages. This will allow the user to get instant acces to who she is and connect through social media. 
+    - The footer also contains social media links. This will allow the user to get instant acces to who she is and connect through social media. Because it's fictive, the links are not directed towards her personal pages.
     - The links will create easy acces to social media, and will open in a seprate window.
     - This feature will be present on all pages. 
 
@@ -89,7 +91,7 @@ This fictive website will be targeted towards all women young and old from all w
 
 - Events
     - There are two different events the user can participate in, making it accesible to different needs and/or agenda's. 
-    - The two event cards show all the information needed, which makes it very easy and clear.
+    - The two event cards show all the information needed, which makes it very easy and clear. Some needed details for actual evenst may be left out due to the fact it's fictitious, like costs, what to bring, maybe even a program, etc.
     - The added images are there to set the tone, create a mood and invite. 
 
 ![Image of the events](assets/images/events-section.png)
@@ -105,6 +107,8 @@ This fictive website will be targeted towards all women young and old from all w
     - The user will be asked to fill in their name and email adress. There is also space for questions or comments. 
 
 ![Image of the form](assets/images/contact-form.png)
+
+---
 
 ### Wireframes
 - Wireframe of the landing page:
@@ -124,30 +128,40 @@ This fictive website will be targeted towards all women young and old from all w
 - Wireframe fo the smartphone contact page:
 ![Wireframe events page smartphone](assets/wireframes/wireframe4%20mobile.png)
 
+---
+
 ### Design choices
 - I picked purple as the primary color of the website. Purple is associaded with wisdom, spirituality, truth, inspiration, imagination and also royalty. Purple is also a color Marleen likes a lot. I picked a contrasting color that would fit well and have a soft warm sense to it. For details I picked a light pink, which is often associated with femininity, self knowledge and creativity. As you will be able to read in the testing section, the contrast has been tested. 
+- I wanted to keep the page minimalistic and clear. Less is more. No distractions from unnacessary features.
 
 ![Image to support color choice](assets/images/color-chart.png)
 
-The chart was found on [Pinterest](https://nl.pinterest.com/pin/213709944790337176/)
+- The chart was found on [Pinterest](https://nl.pinterest.com/pin/213709944790337176/)
 
 ![Image to support color choice](assets/images/color-choice.png)
 
-The color explanation was found on [Colors Explained](https://www.colorsexplained.com/color-purple-meaning-of-the-color-purple/)
+- The color explanation was found on [Colors Explained](https://www.colorsexplained.com/color-purple-meaning-of-the-color-purple/)
+
+---
 
 ### Features for the future
 - A testimonial section, or user story section, where users can read about or even view (video content) the experience of other users. This will add to reliablility of information.
 - A blog section where the user can read and relate to stories. This way a broader public can be reached. 
+- a google maps for directions / location to the venue.
+
+---
 
 ### Languages used
 - This website makes use of two languages:
     - HTML for the frame
     - CSS for the styling of the page
 
+---
+
 ### Testing
 - Responsive design
     - This website is tested for responsive design through the use of different size settings in chrome dev-tools.
-    - Responsivity is also tested on http://ami.responsivedesign.is/ (see image at the top) and on https://www.responsinator.com/ where also different viewport sizes are presented.
+    - Responsivity is also tested on http://ami.responsivedesign.is/ (see image at the top of the page in the introduction) and on https://www.responsinator.com/ where also different viewport sizes are presented.
 
     ![image of responsivity on responsinator](assets/images/responsivity-responsinator.png)
 
@@ -157,19 +171,20 @@ The color explanation was found on [Colors Explained](https://www.colorsexplaine
     - Made all necessary changes.
     - Ran test again to verify all CSS passed.
 
-CSS validation of Index page
+
+- CSS validation of Index page
 
 ![image of css validation index](assets/images/css-val-index.png)
 
-CSS validation of about page
+- CSS validation of about page
 
 ![image of css validation about](assets/images/css-val-about.png)
 
-CSS validation of events page
+- CSS validation of events page
 
 ![image of css validation events](assets/images/css-val-events.png)
 
-CSS validation of contact page
+- CSS validation of contact page
 
 ![image of css validation contact](assets/images/css-val-contact.png)
 
@@ -178,19 +193,19 @@ CSS validation of contact page
     - Made all necessary changes.
     - Ran test again to verify all HTML passed.
 
-HTML validation of index page
+- HTML validation of index page
 
 ![image of html validation index](assets/images/html-val-index.png)
 
-HTML validation of about page
+- HTML validation of about page
 
 ![image of html validation about](assets/images/html-val-about.png)
 
-HTML validation of events page
+- HTML validation of events page
 
 ![image of html validation events](assets/images/html-val-events.png)
 
-HTML validation of contact page
+- HTML validation of contact page
 
 ![image of html validation contact](assets/images/html-val-contact.png)
 
@@ -207,37 +222,37 @@ HTML validation of contact page
     Lighthouse is used in chrome dev tools to check performance and accessibility.
    
 
-Lighthouse test index page desktop
+- Lighthouse test index page desktop
 
 ![Lighthouse index-page desktop](assets/images/lh-test-pg1.png)
 
-Lighthouse test about page desktop
+- Lighthouse test about page desktop
 
 ![Lighthouse about-page desktop](assets/images/lh-test-pg2.png)
 
-Lighthouse test events page desktop
+- Lighthouse test events page desktop
 
 ![Lighthouse events-page desktop](assets/images/lh-test-pg3.png)
 
-Lighthouse test contact page desktop
+- Lighthouse test contact page desktop
 
 ![Lighthouse contact-page desktop](assets/images/lh-test-pg4.png)
 
 ---
 
-Lighthouse test index page mobile
+- Lighthouse test index page mobile
 
 ![Lighthouse index-page mobile](assets/images/lh-test-mb1.png)
 
-Lighthouse test about page mobile
+- Lighthouse test about page mobile
 
 ![Lighthouse about-page mobile](assets/images/lh-test-mb2.png)
 
-Lighthouse test events page mobile
+- Lighthouse test events page mobile
 
 ![Lighthouse events-page mobile](assets/images/lh-test-mb3.png)
 
-Lighthouse test contact page mobile
+- Lighthouse test contact page mobile
 
 ![Lighthouse contact-page mobile](assets/images/lh-test-mb4.png)
 
@@ -247,6 +262,8 @@ Lighthouse test contact page mobile
     - Image on about page wasn't rendering. I was advices on slack to change file path to relative path. This fixed the problem.
     - My events page was to slow, due to sizes of images. I put them through [TinyPNG](https://tinypng.com/) to compress them. After that I made the physical size smaller with Paint 3D. This solved the issue. 
     - I couldn't get my footer at the bottom in the contact page. I tried display absolute / bottom 0, but this created an issue on mobile. The footer was seen on the keyboard. Eventually I used margin on my contact form to keep the footer down at the bottom. 
+
+---
 
 ### Deployment
 
@@ -263,6 +280,8 @@ Lighthouse test contact page mobile
 
 - The live link the deployed project can be found here: [Women's-circle](https://bgmwebdev.github.io/first-project/)
 
+---
+
 ### Credits
 
 - Content
@@ -278,6 +297,7 @@ Lighthouse test contact page mobile
     In general [3wschools](https://www.w3schools.com/) was a great place to find information, as was [MDN](https://developer.mozilla.org/en-US/), [Google](https://www.google.com/?&bih=754&biw=1536&hl=nl) and [Youtube](https://www.youtube.com/).
 
 - Media
+    - Many thanks to the people taking pictures and making them availabe for free!! 
     - image resources are [Unsplash](https://unsplash.com/) and [Pexels](https://www.pexels.com/nl-nl/)
         - The hero-image background is from [Hannah Busing](https://unsplash.com/s/photos/women-group)
         - The about me image is from my private collection
