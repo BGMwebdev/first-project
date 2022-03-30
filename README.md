@@ -13,6 +13,8 @@ This ficticious website, build for educational purpose, will be targeted towards
 
 - [Introduction](#introduction)
 
+- [Table of content](table-of-content)
+
 - [Features](#features) 
     - Navigation bar
     - Landing page
